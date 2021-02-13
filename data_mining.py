@@ -1,7 +1,7 @@
 import urllib, json
 import pandas as pd
 
-# Top 10 cuisines in the United States 
+# Top 11 cuisines in the United States 
 cuisines = ['chinese', 'mexican', 'italian', 'japanese', 'greek', 'french', 'thai', 'spanish', 'indian', 'mediterranean', 'american']
 
 # Dictionaries to hold the data; appending data to a dictionary is faster than appendind to a dataframe
